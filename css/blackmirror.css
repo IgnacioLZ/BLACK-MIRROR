@@ -1,0 +1,14 @@
+/********************************************************/
+/*          Stylesheet for Back Mirror site             */
+/*          author: Ignacio Lázaro Zambrano             */
+/*          versioin: 1.0                               */
+/*          commnent: project for lenguaje de marcas    */
+/********************************************************/
+
+body{margin: 0; padding: 0; /* Para eliminar espacio superior en el body*/
+    background-color: black; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+#wrapper{background-color: grey; text-align: center;
+        width: 50%,;
+    margin: auto;};
+/*se centra el contenido de la página*/
+
